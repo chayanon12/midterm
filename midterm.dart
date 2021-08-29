@@ -26,14 +26,7 @@ class Midterm extends StatefulWidget {
 }
 
 class _Midterm extends State<Midterm> {
-  int scoreRed = 0;
-  int scoreBlue = 0;
-  int round = 0;
-  int countRed = 0;
-  int conutBlue = 0;
-  bool Red = false;
-  bool Blue = true;
-
+ 
   var count = 0;
   bool teamThailand = true;
   bool teamIreland = false;
